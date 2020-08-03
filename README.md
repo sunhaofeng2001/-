@@ -8,4 +8,14 @@
 ### 背景知识
   本书的重点是执行x86-64(即基于x86指令集架构的64位处理器)机器代码的系统。
   并且本书考虑的是在Linux操作系统上运行C语言程序。
-## [第一章.计算机系统漫游](https://github.com/sunhaofeng2001/-/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)
+  
+## [第一章.计算机系统漫游](https://github.com/sunhaofeng2001/-/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)   
+      这一章通过研究“hello，world”这个简单程序的生命周期，介绍计算机系统的主要概念和主题。
+
+
+
+
+## [第二章.信息的表示与处理]()
+
+
+  
