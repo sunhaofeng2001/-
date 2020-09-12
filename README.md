@@ -54,4 +54,7 @@
 ## [第七章.链接](https://github.com/sunhaofeng2001/-/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0.md)  
       本章讲述静态和动态链接 ,包括的概念 有可重 定位的 和可执行的目
       标文件 、符号解析 、重定位、静态库 、共享目标库 、位置无关代码,以及库打桩。
-
+## [第十章.系统级I/O](https://github.com/sunhaofeng2001/-/blob/master/%E7%AC%AC%E5%8D%81%E7%AB%A0.md)
+      讲述 Unix I/O 的基本概念，例如文件和描述符。
+      描述如何共享文件，I/O 重定向是如何工作的，还有如何访问文件的元数据。
+      标准 I/O 的局限性，这些局限性使之不适合网络编程。
